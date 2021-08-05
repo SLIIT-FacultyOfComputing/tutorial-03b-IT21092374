@@ -22,8 +22,6 @@ void input(int &len, int &wth){
   cin>> len;
   cout << "input width : ";
   cin >> wth;
-  cout << "Length : " << len
-       << ", width : " << wth << endl;
+  
 }
 
-// Implement the Input Function here
